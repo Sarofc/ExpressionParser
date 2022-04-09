@@ -28,7 +28,7 @@ Saro.Expression.ExpressionParser.SetConst("e", (float)Math.E);
 
 TestCase
 ---
-See [BenchmarkExpr.cs](https://github.com/Sarofc/ExpressionParser/blob/master/ExpressionParser.Sample/BenchmarkExpr.cs)
+See [BenchmarkExpr.cs](https://github.com/Sarofc/ExpressionParser/blob/main/ExpressionParser.Sample/BenchmarkExpr.cs)
 
 Result
 ---
